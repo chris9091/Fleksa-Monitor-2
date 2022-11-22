@@ -2651,18 +2651,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pizza-tastezilla.de.ico",
     "slug": "tastezilla-steinofen-pizzeria",
     "status": "down",
-    "uptime": "98.21%",
-    "uptimeDay": "98.21%",
-    "uptimeWeek": "98.21%",
-    "uptimeMonth": "98.21%",
-    "uptimeYear": "98.21%",
+    "uptime": "97.61%",
+    "uptimeDay": "97.61%",
+    "uptimeWeek": "97.61%",
+    "uptimeMonth": "97.61%",
+    "uptimeYear": "97.61%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-22": 4
+      "2022-11-22": 5
     }
   },
   {
@@ -5857,18 +5857,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/everest-pizzaservice.de.ico",
     "slug": "everest-pizza-service",
     "status": "down",
-    "uptime": "99.27%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.27%",
-    "uptimeMonth": "99.27%",
-    "uptimeYear": "99.27%",
+    "uptime": "98.63%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "98.63%",
+    "uptimeMonth": "98.63%",
+    "uptimeYear": "98.63%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-22": 2
+      "2022-11-22": 3
     }
   },
   {
