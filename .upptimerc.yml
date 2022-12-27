@@ -1693,6 +1693,101 @@ sites:
     expectedStatusCodes:
       - 405
       - 200 
+  - name:	Pizzeria Brescia Duisburg
+    url:	https://bresciapizzeria.de
+    expectedStatusCodes:
+      - 405
+      - 200   
+  - name: Pizzeria Gianni	
+    url: https://pizza-gianni.de
+    expectedStatusCodes:
+     - 405
+     - 200  
+  - name: Pizzeria Panda	
+    url: https://pizza-panda.de
+    expectedStatusCodes:
+     - 405
+     - 200
+  - name: Pizzeria for you	
+    url: https://pizzeriaforyou.de
+    expectedStatusCodes:
+     - 405
+     - 200
+  - name: Hot Küche	
+    url: https://xn--hotkche-q2a.de
+    expectedStatusCodes:
+     - 405
+     - 200
+  - name: Pizzeria Bollywood	
+    url: https://wesel-bollywood.de
+    expectedStatusCodes:
+     - 405
+     - 200
+  - name: My Qebab	
+    url: https://myqebab-leer.de
+    expectedStatusCodes:
+     - 405
+     - 200
+  - name: Pizzeria Bingum	
+    url: https://pizzabingum-leer.de
+    expectedStatusCodes:
+     - 405
+     - 200
+  - name: Pizzeria Jemo	
+    url: https://pizzajemo.de
+    expectedStatusCodes:
+     - 405
+     - 200
+  - name: Pizzeria Amed	
+    url: https://pizzeriaamed-leer.de
+    expectedStatusCodes:
+     - 405
+     - 200
+  - name: Kebab House	
+    url: https://kebabhouse-leer.de
+    expectedStatusCodes:
+     - 405
+     - 200
+  - name: Restaurant Teba	
+    url: https://restaurant-teba.de
+    expectedStatusCodes:
+     - 405
+     - 200
+  - name: Venezia Grill 2	
+    url: https://veneziagrill2.de
+    expectedStatusCodes:
+     - 405
+     - 200
+  - name: Restaurant Badmaash	
+    url: https://restaurant-badmaash.de
+    expectedStatusCodes:
+     - 405
+     - 200
+  - name: Rice & Curry	
+    url: https://ricecurry.de
+    expectedStatusCodes:
+     - 405
+     - 200
+  - name: La Fragola	
+    url: https://eschborn-lafragola.de
+    expectedStatusCodes:
+     - 405
+     - 200
+  - name: foody hub	
+    url: https://foodyhub-waldaschaff.de
+    expectedStatusCodes:
+     - 405
+     - 200
+  - name: Afan Lieferservice	
+    url: https://afan-lieferservice.de
+    expectedStatusCodes:
+     - 405
+     - 200
+  - name: Burger Pizza Corner	
+    url: https://burgerpizzacorner.de
+    expectedStatusCodes:
+     - 405
+     - 200
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
