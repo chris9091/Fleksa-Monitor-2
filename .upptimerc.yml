@@ -1788,6 +1788,36 @@ sites:
     expectedStatusCodes:
      - 405
      - 200
+  - name: Restaurant Volksgarten	
+    url: https://restaurant-volksgarten.de/
+    expectedStatusCodes:
+     - 405
+     - 200  
+  - name: Pizza Hamburger Farm	
+    url: https://pizzafarm-hb.de/
+    expectedStatusCodes:
+     - 405
+     - 200  
+  - name: Papa's Pizza	
+    url: https://papaspizza-k.de/
+    expectedStatusCodes:
+     - 405
+     - 200  
+  - name: Crazy Pizza	
+    url: https://crazypizza-k.de/
+    expectedStatusCodes:
+     - 405
+     - 200  
+  - name: Pizzeria Am Stadtpark	
+    url: https://pizzeria-amstadtpark.de/
+    expectedStatusCodes:
+     - 405
+     - 200  
+  - name: Spicy Tandori   
+    url: https://spicytandori.de/
+    expectedStatusCodes:
+     - 405
+     - 200 
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
