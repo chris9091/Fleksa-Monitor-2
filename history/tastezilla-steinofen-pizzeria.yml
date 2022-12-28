@@ -1,7 +1,7 @@
 url: https://pizza-tastezilla.de
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2022-12-23T23:19:26.706Z
+status: up
+code: 200
+responseTime: 1042
+lastUpdated: 2022-12-28T10:34:16.029Z
 startTime: Tue Nov 22 2022 11:37:32 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
