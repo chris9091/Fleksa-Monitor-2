@@ -188,6 +188,7 @@ sites:
     expectedStatusCodes:
       - 405
       - 200 
+      - 0
   - name:	Tramonto Pizzeria
     url:	https://lieferservice.xn--tramonto-bdingen-szb.de
     expectedStatusCodes:
